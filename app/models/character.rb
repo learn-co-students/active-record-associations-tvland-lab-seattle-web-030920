@@ -6,7 +6,5 @@ class Character < ActiveRecord::Base #join tables have singular, AR knows and lo
     "#{name} always says: #{catchphrase}"
   end
 
-#   def build_network
 
-#   end
 end
